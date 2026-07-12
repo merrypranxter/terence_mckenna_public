@@ -1,0 +1,8 @@
+{
+  "name": "WEBSITE VERSION Terence McKenna Chatbot",
+  "description": "An archaic revival chatbot modeled on the philosopher and orator Terence McKenna, with a retro-early-internet digital-shaman style user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
